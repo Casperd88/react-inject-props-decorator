@@ -28,3 +28,6 @@ class HelloUser extends Component {
   }
 }
 ```
+## License
+
+[MIT](LICENSE)
