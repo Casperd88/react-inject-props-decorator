@@ -17,7 +17,7 @@ $ yarn add react-inject-props-decorator
 ## Usage Example
 
 ```javascript
-import React, { Component }
+import React, { Component } from 'react';
 import injectProps from 'react-inject-props-decorator';
 
 class HelloUser extends Component {
