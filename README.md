@@ -25,7 +25,9 @@ class HelloUser extends Component {
 
   @injectProps
   render({firstName, lastName}) {
-    <div>Hello {firstName} {lastName}</div>
+    return (
+      <div>Hello {firstName} {lastName}</div>
+    )
   }
 }
 ```
