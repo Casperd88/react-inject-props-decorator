@@ -1,0 +1,19 @@
+{
+  "name": "react-inject-props-decorator",
+  "version": "1.0.0",
+  "description": "ES7 decorator to inject props in your react component methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casperd88/react-inject-props-decorator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Casperd88/react-inject-props-decorator/issues"
+  },
+  "homepage": "https://github.com/Casperd88/react-inject-props-decorator#readme"
+}
