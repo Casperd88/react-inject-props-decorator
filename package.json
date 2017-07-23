@@ -1,6 +1,6 @@
 {
   "name": "react-inject-props-decorator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "ES7 decorator to inject props in your react component methods",
   "main": "index.js",
   "scripts": {
