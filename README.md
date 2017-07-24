@@ -15,7 +15,7 @@ or
 $ yarn add react-inject-props-decorator
 ```
 
-## Usage Example
+## Example
 
 ```javascript
 import React, { Component } from 'react';
