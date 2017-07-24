@@ -7,7 +7,7 @@ ES7 decorator to inject props in your react component methods.
 ## Install
 
 ```sh
-$ npm install --save react-inject-props-decorator
+$ npm i -S react-inject-props-decorator
 ```
 or
 
