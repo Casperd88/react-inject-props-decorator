@@ -3,6 +3,7 @@
   "version": "1.3.0",
   "description": "ES7 decorator to inject props in your react component methods",
   "main": "index.js",
+  "keywords": ["react", "decorators", "es7"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
